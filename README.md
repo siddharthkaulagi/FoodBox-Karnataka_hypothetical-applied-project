@@ -2,7 +2,7 @@
 
 **Type:** Hypothetical Applied Case Study  
 **Course:** Introduction to Digital Marketing + Business Startup Essentials (Shaw Academy)  
-**Author:** Siddharth Ramanath Kaulagi | 1BM22IE062 | B.E. IEM, BMS College of Engineering  
+**Author:** Siddharth Ramanath Kaulagi | 1BM22IE052 | B.E. IEM, BMS College of Engineering  
 **Purpose:** Skill Enhancement Training — Applied Exercise (Academic Submission)
 
 ---
